@@ -16,8 +16,8 @@ const Weather = () => {
         <img src = {searchIcon} alt = ""/>
       </div>
       <img src={clearIcon} alt = "" className = 'weather-icon'/>
-      <p>16°C</p>
-      <p>London</p>
+      <p className = 'temperature'>16°C</p>
+      <p className= 'location'>London</p>
     </div>
   );
 };

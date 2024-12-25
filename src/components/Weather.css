@@ -29,3 +29,16 @@
     background: #ebfffc;
     cursor: pointer;
 }
+.weather-icon {
+    width: 150px;
+    margin: 30px;
+}
+.temperature {
+    color: #fff;
+    font-size: 80px;
+    line-height: 1;
+}
+.location {
+    color: #fff;
+    font-size: 40px;
+}
